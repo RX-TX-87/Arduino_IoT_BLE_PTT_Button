@@ -1,7 +1,7 @@
 /*
   Example for how to connect a Zello BLE PTT Button (NEXTAV PTT-U2-L0) to an Arduino Nano 33 IOT
-  By RX_TX
-  8/2020
+  https://github.com/RX-TX-87/Arduino_IoT_BLE_PTT_Button
+  8/10/2020
 */
 
 #include <ArduinoBLE.h>
